@@ -1,0 +1,134 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter&display=swap);@import url(https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap);body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif
+}
+
+code {
+  font-family: source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace
+}
+
+body {
+  font-family: Inter,sans-serif;
+  height: 100vh;
+  margin: 0;
+  width: 100vw
+}
+
+.headerSection {
+  background: #ffcd9e;
+  display: flex;
+  height: 62vh;
+  width: 100vw
+}
+
+.title {
+  height: 12vh;
+  margin-bottom: 0;
+  margin-left: 9.5vw;
+  margin-top: 8.4vh;
+  width: 40vw
+}
+
+.content {
+  height: 8.1vh;
+  width: 41.25vw
+}
+
+.content,.sub-content {
+  margin-bottom: 0;
+  margin-left: 9.5vw;
+  margin-top: 0
+}
+
+.sub-content {
+  height: 6vh;
+  width: 18.91vw
+}
+
+.input {
+  font-size: 1.66vw;
+  font-weight: 40;
+  height: 8vh;
+  line-height: 160%;
+  margin-left: 9.3vw;
+  padding-left: 1.83vw;
+  width: 20.83vw
+}
+
+.btn,.input {
+  align-items: center;
+  border-radius: .66vw
+}
+
+.btn {
+  background: #282828;
+  color: #fff;
+  font-size: 2vh;
+  font-weight: 700;
+  height: 8.9vh;
+  line-height: 2.4vh;
+  margin-left: 1.33vw;
+  width: 10.83vw
+}
+
+.sub-sub-content {
+  color: #fff;
+  height: 6.1vh;
+  margin-left: 11vw;
+  text-align: center;
+  width: 28.66vw
+}
+
+.dweep-image {
+  height: 54vh;
+  margin-left: 18vh;
+  margin-right: 4.7vh;
+  margin-top: 1.5vh;
+  width: 34vw
+}
+
+.form {
+  display: flex
+}
+
+.footerSection {
+  background: #282828;
+  display: flex;
+  height: 38vh;
+  width: 100vw
+}
+
+.ft-left-content {
+  color: #fff;
+  height: 3.6vh;
+  margin-bottom: 0;
+  margin-left: 19.1vh;
+  margin-top: 0;
+  width: 18vw
+}
+
+.first {
+  margin-top: 6.2vh
+}
+
+.ft-right-content {
+  color: #fff;
+  height: 3.6vh;
+  margin-bottom: .2vh;
+  margin-left: 84.5vh;
+  text-align: right;
+  width: 12.33vw
+}
+
+.first-right {
+  height: 2.8vh;
+  margin-left: 84vh;
+  margin-top: 6.2vh
+}
+
+.icons {
+  margin-top: 1.2vh
+}
+
+/*# sourceMappingURL=main.8ff0bb1f.css.map*/
